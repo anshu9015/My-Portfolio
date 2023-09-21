@@ -5,16 +5,9 @@ import {
   DiHtml5,
   DiReact,
   DiCss3,
-  DiC,
   DiGit,
 } from "react-icons/di";
-import {
-  SiVuedotjs,
-  SiAngular,
-  SiAmazonaws,
-  SiExpress,
-  SiRedux
-} from "react-icons/si";
+
 
 function Techstack() {
   return (
